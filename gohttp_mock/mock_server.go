@@ -3,7 +3,7 @@ package gohttp_mock
 import (
 	"crypto/md5"
 	"encoding/hex"
-	"github.com/yossefaz/go-httpclient/core"
+	"github.com/yossefaz/go-http-client/core"
 	"strings"
 	"sync"
 )
