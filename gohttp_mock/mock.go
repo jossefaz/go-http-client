@@ -2,7 +2,7 @@ package gohttp_mock
 
 import (
 	"fmt"
-	"github.com/federicoleon/go-httpclient/core"
+	"github.com/yossefaz/go-httpclient/core"
 	"net/http"
 )
 

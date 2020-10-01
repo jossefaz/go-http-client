@@ -1,8 +1,8 @@
 package examples
 
 import (
-	"github.com/federicoleon/go-httpclient/gohttp"
-	"github.com/federicoleon/go-httpclient/gomime"
+	"github.com/yossefaz/go-httpclient/gohttp"
+	"github.com/yossefaz/go-httpclient/gomime"
 	"net/http"
 	"time"
 )

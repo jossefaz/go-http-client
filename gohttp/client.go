@@ -1,7 +1,7 @@
 package gohttp
 
 import (
-	"github.com/federicoleon/go-httpclient/core"
+	"github.com/yossefaz/go-httpclient/core"
 	"net/http"
 	"sync"
 )

@@ -1,7 +1,7 @@
 package gohttp
 
 import (
-	"github.com/federicoleon/go-httpclient/gomime"
+	"github.com/yossefaz/go-httpclient/gomime"
 	"net/http"
 )
 
